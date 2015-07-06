@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 100%;
+  text-align: center;
+  background-image: url("images/vape-shop-counter.jpg");
+  background-size: 100%;
+}
+
+.jumbotron h1 {
+  font-size: 3em;
+  color: white;
+  text-shadow: 2px 2px 16px black;
+}
+
+.jumbotron-background-text {
+  color: white;
+  text-shadow: 2px 2px 16px black;
+}
+
+#go-mobile {
+  background-color: lightblue;
+}
+#sell-in-store {
+  background-color: lightcoral;
+}
+#sell-online {
+  background-color: palegoldenrod;
+}
+
+.vso-service:hover{
+   background-color: lightgray;
+   cursor: pointer;
+}
+
+.center-text {
+  text-align: center;
+}
